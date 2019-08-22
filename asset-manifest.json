@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/The-Photo-App/static/css/main.43b134e8.chunk.css",
+    "main.js": "/The-Photo-App/static/js/main.6ae6eda1.chunk.js",
+    "main.js.map": "/The-Photo-App/static/js/main.6ae6eda1.chunk.js.map",
+    "runtime~main.js": "/The-Photo-App/static/js/runtime~main.73d64971.js",
+    "runtime~main.js.map": "/The-Photo-App/static/js/runtime~main.73d64971.js.map",
+    "static/js/2.ce44b6ea.chunk.js": "/The-Photo-App/static/js/2.ce44b6ea.chunk.js",
+    "static/js/2.ce44b6ea.chunk.js.map": "/The-Photo-App/static/js/2.ce44b6ea.chunk.js.map",
+    "index.html": "/The-Photo-App/index.html",
+    "precache-manifest.2761933792c36df134da5f6697f9f402.js": "/The-Photo-App/precache-manifest.2761933792c36df134da5f6697f9f402.js",
+    "service-worker.js": "/The-Photo-App/service-worker.js",
+    "static/css/main.43b134e8.chunk.css.map": "/The-Photo-App/static/css/main.43b134e8.chunk.css.map"
+  }
+}
