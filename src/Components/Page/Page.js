@@ -2,10 +2,6 @@ import React from 'react';
 import PhotoFeed from "../PhotoFeed/PhotoFeed"
 import {FileUpload} from "../FileUpload/FileUpload"
 
-
-//add in ability to name the images. Take imageFilePath and turn it into an object with the imageFilepath array and a name for the images as well
-
-
 // Change order of photos (pending)
 // Save the layout 
 // create splash page
